@@ -1,6 +1,8 @@
 {
   "name": "hw3app",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "pro_id": "e6a0a18c"
 }
